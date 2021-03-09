@@ -6,4 +6,4 @@ No, I'm not literally drawing out every vertex with glStart(GL_TRIANGLES); ... g
 and I've been watching him create a Game Engine from scratch just baffled lol. He's quite gifted in algorithm development, but I think the lack of a basic 
 precalculus background ... not knowing how to calculate the Field of View of a pinhole camera, 
 
-_for ex:_  ![alt text](https://github.com/HorribleProgram/HorribleGLEngine/raw/master/resources/images/fov.png "Fov")
+<img src="https://github.com/HorribleProgram/HorribleGLEngine/blob/master/resources/fov.png" align="center" height="200" width="200">

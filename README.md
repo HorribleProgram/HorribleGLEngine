@@ -9,3 +9,12 @@ precalculus background ... not knowing how to calculate the Field of View of a p
 <img src="https://github.com/HorribleProgram/HorribleGLEngine/blob/master/resources/fov.png" align="center" height="200" width="200">
 
 leads him to make a lot of weird decisions (_I stuff think he's a genius btw and he's done more than I would ever be able too_). Secondly, I don't see OpenGL full screen windows being a thing for much longer. Full screen experiences are fun, but I have a theory that we're going to start seeing more weird places to embed 3D environments, :man_shrugging: 
+
+#### About this Repository
+There's 2 "main" branches:
+
+1. master
+2. second-master (...lol...)
+
+second-master is actually just a "client-side" version that won't include server-side node/express features, it just serves static files.
+It's also more of a "testing" playground. Other branches are just feature and issue branch hotfixes and whatnot.

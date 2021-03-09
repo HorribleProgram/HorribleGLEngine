@@ -1,3 +1,5 @@
+[![License: HorribleLicense](https://img.shields.io/badge/HorribleLicense-HL-grey)](https://www.google.ca)
+
 # HorribleGLEngine
 An attempt to clone CS1.6 in with WebGL :/ 
 

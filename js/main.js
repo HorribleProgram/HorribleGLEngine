@@ -29,4 +29,16 @@ const animate = function() {
   renderer.render(scene, camera);
 };
 
+////////
+
+const loader = new THREE.GLTFLoader();
+loader.load('../resources/glb/Apartment.gltf', (gltf) => {
+  scene.add(gltf.scene);
+  gltf.animations;
+  gltf.scenes;
+  gltf.cameras;
+  gltf.asset;
+}, xhr => console.log(xhr.loaded / xhr.total * 100));
+///////
+
 animate();
